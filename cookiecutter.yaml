@@ -1,0 +1,13 @@
+default_context:
+    municipality: "San Jose"
+    iana_timezone: "America/Los_Angeles"
+    governing_body_type: "city council"
+    municipality_slug: "san-jose"
+    python_municipality_slug: "san_jose"
+    infrastructure_slug: "cdp-san-jose-5d9db455"
+    maintainer_or_org_full_name: "evamaxfield"
+    hosting_github_username_or_org: "CouncilDataProject"
+    hosting_github_repo_name: "san-jose"
+    hosting_github_url: "https://github.com/CouncilDataProject/san-jose"
+    hosting_web_app_address: "https://councildataproject.github.io/san-jose"
+    firestore_region: "us-central"
