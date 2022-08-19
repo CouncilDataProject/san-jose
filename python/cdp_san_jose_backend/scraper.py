@@ -19,29 +19,26 @@ def get_events(
         client="sanjose",
         timezone="America/Los_Angeles",
         ignore_minutes_item_patterns=[
-            "* COVID-19 NOTICE *",
+            "COVID-19 NOTICE",
             (
                 "this meeting will not be physically open to the public "
                 "and the Committee Members will be teleconferencing from "
                 "remote locations"
             ),
+            "Cable Channel 26",
+            "https://www.sanjoseca.gov/news-stories/watch-a-meeting",
+            "https://www.youtube.com/CityofSanJoseCalifornia",
             "How to observe the Meeting",
-            (
-                "1) Cable Channel 26, "
-                "2) https://www.sanjoseca.gov/news-stories/watch-a-meeting, "
-                "or 3) https://www.youtube.com/CityofSanJoseCalifornia"
-            ),
             "How to submit written Public Comment:",
             (
-                "1) By email to city.clerk@sanjoseca.gov by "
+                "By email to city.clerk@sanjoseca.gov by "
                 "9:00 a.m. the day of the meeting."
             ),
             "How to provide spoken Public Comment during the Committee Meeting:",
             (
                 "Certain functionality may be disabled in older "
-                "browsers including Internet Explorer",
+                "browsers including Internet Explorer"
             ),
-            "City Council (City Clerk)",
             "Notice to the public",
             "Members of the Public are invited to speak on any item",
             "The Code of Conduct",
