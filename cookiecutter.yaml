@@ -11,3 +11,5 @@ default_context:
     hosting_github_url: "https://github.com/CouncilDataProject/san-jose"
     hosting_web_app_address: "https://councildataproject.github.io/san-jose"
     firestore_region: "us-central"
+    event_gather_timedelta_lookback_days: 10
+    event_gather_cron: "33 6 * * *"
