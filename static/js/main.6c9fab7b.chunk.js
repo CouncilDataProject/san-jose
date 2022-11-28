@@ -1,2 +1,0 @@
-(this["webpackJsonpcdp-san-jose"]=this["webpackJsonpcdp-san-jose"]||[]).push([[0],{204:function(e,n){},90:function(e,n,s){"use strict";s.r(n);s(0);var o=s(26),i=s.n(o),t=s(65),c=(s(218),s(57));i.a.render(Object(c.jsx)("div",{children:Object(c.jsx)(t.AppConfigProvider,{appConfig:{firebaseConfig:{options:{projectId:"cdp-san-jose-5d9db455"},settings:{}},municipality:{name:"San Jose",timeZone:"America/Los_Angeles",footerLinksSections:[]}},children:Object(c.jsx)(t.App,{})})}),document.getElementById("root"))}},[[90,1,2]]]);
-//# sourceMappingURL=main.6c9fab7b.chunk.js.map
