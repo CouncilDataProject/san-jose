@@ -49,6 +49,7 @@ for session in sessions_for_delete:
     except requests.exceptions.ConnectionError:
         i += 1
         print(f"({i}) {session.video_uri} will be deleted")
+        
 print(len(sessions_for_delete))
 
 # This will delete the actual sessions
