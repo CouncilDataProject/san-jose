@@ -50,7 +50,7 @@ for session in sessions_for_delete:
         i += 1
         print(f"({i}) {session.video_uri} will be deleted")
         
-print(len(sessions_for_delete))
+print(f" Number sessions to delete: {str(len(sessions_for_delete))}")
 
 # This will delete the actual sessions
 if sys.argv[-1] == "real":
