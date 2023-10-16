@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/san-jose/static/js/main.4e748506.chunk.js",
-    "main.js.map": "/san-jose/static/js/main.4e748506.chunk.js.map",
-    "runtime-main.js": "/san-jose/static/js/runtime-main.605ae66a.js",
-    "runtime-main.js.map": "/san-jose/static/js/runtime-main.605ae66a.js.map",
+    "main.js": "/san-jose/static/js/main.cd880cc3.chunk.js",
+    "main.js.map": "/san-jose/static/js/main.cd880cc3.chunk.js.map",
+    "runtime-main.js": "/san-jose/static/js/runtime-main.95dc056c.js",
+    "runtime-main.js.map": "/san-jose/static/js/runtime-main.95dc056c.js.map",
     "static/css/2.3fe0b2dc.chunk.css": "/san-jose/static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.4910bf51.chunk.js": "/san-jose/static/js/2.4910bf51.chunk.js",
-    "static/js/2.4910bf51.chunk.js.map": "/san-jose/static/js/2.4910bf51.chunk.js.map",
+    "static/js/2.2362b7c0.chunk.js": "/san-jose/static/js/2.2362b7c0.chunk.js",
+    "static/js/2.2362b7c0.chunk.js.map": "/san-jose/static/js/2.2362b7c0.chunk.js.map",
     "index.html": "/san-jose/index.html",
     "static/css/2.3fe0b2dc.chunk.css.map": "/san-jose/static/css/2.3fe0b2dc.chunk.css.map",
-    "static/js/2.4910bf51.chunk.js.LICENSE.txt": "/san-jose/static/js/2.4910bf51.chunk.js.LICENSE.txt"
+    "static/js/2.2362b7c0.chunk.js.LICENSE.txt": "/san-jose/static/js/2.2362b7c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.605ae66a.js",
+    "static/js/runtime-main.95dc056c.js",
     "static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.4910bf51.chunk.js",
-    "static/js/main.4e748506.chunk.js"
+    "static/js/2.2362b7c0.chunk.js",
+    "static/js/main.cd880cc3.chunk.js"
   ]
 }
